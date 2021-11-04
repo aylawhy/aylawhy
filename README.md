@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayla! I'm a humanities nerd turned Computer Science major, aiming to become a developer.
 - 👀 I’m interested in JavaScript, Java, and web dev in general.
-- 🌱 I’m currently learning Java, JavaScript, and data structures and algorithmic design.
+- 🌱 I’m currently learning Java and JavaScript.
 - 💞️ Not looking to collaborate on anything at the moment, but open to ideas. 
 - 📫 Feel free to connect with me on Twitter! I'm @ayla_why.
 
